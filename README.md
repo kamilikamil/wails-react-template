@@ -2,7 +2,7 @@
 
 ## About
 
-About your template
+The frontend typescript react app is made using `create-react-app --template typescript`.
 
 ## Building 
 
@@ -13,4 +13,4 @@ To generate a platform native package, add the `-package` flag.
 
 To run in live development mode, run `wails dev` in the project directory. In another terminal, go into the `frontend` 
 directory and run `npm run dev`. The frontend dev server will run on http://localhost:34115. Connect to this
-in your browser and connect to your application. 
+in your browser and connect to your application.
