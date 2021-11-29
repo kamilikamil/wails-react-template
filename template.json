@@ -1,0 +1,7 @@
+{
+  "name": "wails-react-template",
+  "shortname": "wails-react-template",
+  "author": "Kamil Kamili",
+  "description": "React template for wails created using create-react-app",
+  "helpurl": "https://github.com/kamilikamil/wails-react-template"
+}
