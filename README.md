@@ -4,6 +4,8 @@
 
 The frontend typescript react app is made using `create-react-app --template typescript`.
 
+To use this template run `wails init -n "your-project-name" -t https://github.com/kamilikamil/wails-react-template`, assuming you have installed wails cli. If you haven't, simply run `go install github.com/wailsapp/wails/v2/cmd/wails@latest`
+
 ## Building 
 
 To build this project in debug mode, use `wails build`. For production, use `wails build -production`.
